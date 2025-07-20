@@ -3,7 +3,7 @@ import { fetchRouteData } from "./data";
 import { mapSimulation } from "./utils/mapSimulation";
 import MapView from "./components/MapView";
 import Controls from "./components/Controls";
-import "./app.css";
+import "./App.css";
 import { calculateSpeed } from "./utils/calculateSpeed";
 
 function App() {
