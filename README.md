@@ -2,7 +2,7 @@
 
 A modern React + Leaflet application that simulates real-time vehicle movement along predefined routes using dummy GPS data.
 
-Live Link: [http://localhost:5173](http://localhost:5173)
+Live Link: [https://vehicle-map-app-phi.vercel.app/](https://vehicle-map-app-phi.vercel.app/)
 
 
 ---
